@@ -1,7 +1,6 @@
 # my-gulp - 基于gulp的工具架构，方便多页面的编译
-
-[![npm version](https://img.shields.io/npm/v/jquery-weui.svg)](https://www.npmjs.com/package/jquery-weui)
-
+![version](https://img.shields.io/badge/version-%20v1.1.0%20-green.svg)
+![npm version](https://img.shields.io/badge/npm-%20v1.2.0%20-blue.svg)
 # gulp
 
 使用 `gulp` 进行代码编译，如何进行编译请参见下面的gulp章节。
@@ -18,10 +17,10 @@
 
 # LICENSE
 
-[MIT](https://opensource.org/licenses/MIT)。
+[MIT](https://opensource.org/licenses/MIT)
 
 # Thanks
 
-- [gulp](http://gulpjs.com/)
+[gulp](http://gulpjs.com/)
 
 
