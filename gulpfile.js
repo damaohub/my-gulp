@@ -100,7 +100,7 @@ gulp.task('watch', function () {
 });
 
 gulp.task('server', function () {
-  connect.server();
+  connect.server({ port: 8081 });
 });
 gulp.task("default", ['watch', 'server']);
 gulp.task("build", ['uglify', 'cssmin', 'copy', 'ejs']);
